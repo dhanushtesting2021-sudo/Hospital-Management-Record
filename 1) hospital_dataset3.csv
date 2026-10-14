@@ -1,0 +1,51 @@
+PATIENT ID	NAME	AGE	GENDER	ADMISSION_DATE	DISCHARGE_DATE	DEPARTMENT	DOCTOR_ASSIGNED	DIAGNOSIS	BILLING_AMOUNT	INSURANCE TYPE
+1	Arjun	30	Male	01-05-2026	07-05-2026	Orthopedics	Dr.Mani	Back Pain	7000	Self-pay
+2	Priya S	35	Female	03-05-2026	09-05-2026	Cardiology	Dr.Raj	Chest Pain	7500	Insured
+3	Dhanush S	40	Male	05-05-2026	08-05-2026	General	Dr.Raja	Fever	5000	No Fees
+4	Divya M	45	Female	07-05-2026	12-05-2026	ICU	Dr.Prema	Heart Attack	50000	Government
+5	Karthik P	60	Male	09-05-2026	14-05-2026	Emergency	Dr.prakash	Accident Injury	75000	Insured
+6	Nithya K	45	Female	11-05-2026	13-05-2026	Dermatology	Dr.Rahul	Skin Allergy	5000	Self-pay
+7	Sanjay V	29	Male	13-05-2026	17-05-2026	Pediatrics	Dr.Dravid	Childhood Infection	6000	Self-pay
+8	Harini R	35	Female	18-05-2026	25-05-2026	Neurology	Dr.Kumar	Stroke	9000	Government
+9	Gokul S	34	Male	19-05-2026	26-05-2026	Dental	Dr.Velan	Gum Infection	10000	Insured
+10	Keerthana P	36	Female	20-05-2026	27-05-2026	Physiotherapy	Dr.Ramesh	Shoulder Pain	4000	Self-pay
+11	Ajay Kumar	40	Male	01-06-2026	07-06-2026	General Surgery	Dr.Kannan	Gallstones	4500	Government
+12	Haseena M	67	Female	03-06-2026	09-06-2026	Cardiology	Dr.Raj	Chest Pain	8900	Insured
+13	Dinesh R	50	Male	05-06-2026	08-06-2026	General	Dr.Raja	Fever	2000	Self-pay
+14	Anitha S	40	Female	07-06-2026	12-06-2026	ICU	Dr.Prema	Critical Injury	60000	Government
+15	Rahul P	37	Male	09-06-2026	14-06-2026	Emergency	Dr.prakash	Poisoning	70000	Insured
+16	Meena K	38	Female	11-06-2026	13-06-2026	Dermatology	Dr.Rahul	Skin Infection	5000	Self-pay
+17	Vijay S	39	Male	13-06-2026	17-06-2026	Pediatrics	Dr.Dravid	Asthma	7000	Self-pay
+18	Lavanya R	30	Female	18-06-2026	25-06-2026	Neurology	Dr.Kumar	Neuropathy	6000	Self-pay
+19	Manoj T	36	Male	19-06-2026	26-06-2026	Dental	Dr.Velan	Wisdom Tooth	4000	Government
+20	Pooja M	35	Female	20-06-2026	27-06-2026	Physiotherapy	Dr.Ramesh	Sports Injury	40000	Insured
+21	Manish N	33	Male	01-07-2026	07-07-2026	General Surgery	Dr.Kannan	Abdominal Pain	25000	Self-pay
+22	Mahi B	44	Male	03-07-2026	09-07-2026	General	Dr.Raja	Cold	3000	Self-pay
+23	Dhoni V	45	Male	05-07-2026	08-07-2026	ICU	Dr.Prema	Severe Infection	70000	Government
+24	Smith S	40	Male	07-07-2026	12-07-2026	Emergency	Dr.prakashkumar	Poisoning	80000	Self-pay
+25	Kaur s	37	Female	09-07-2026	14-07-2026	Dermatology	Dr.Rahul	Skin Allergy	5700	Government
+26	Richa D	26	Female	11-07-2026	13-07-2026	Pediatrics	Dr.Dravid	Asthma	7000	Self-pay
+27	Gowtham A	25	Male	13-07-2026	17-07-2026	Neurology	Dr.Kumar	Migraine	8000	Government
+28	Shankar F	37	Male	18-07-2026	25-07-2026	Dental	Dr.Velan	Wisdom Tooth	3000	Self-pay
+29	Swaminathan M	40	Male	19-07-2026	26-07-2026	Physiotherapy	Dr.Ramesh	Sports Injury	50000	Government
+30	Murugan M	45	Male	20-07-2026	27-07-2026	General Surgery	Dr.Kannan	Abdominal Pain	20000	Self-pay
+31	Sneha M	37	Female	01-08-2026	07-08-2026	ICU	Dr.Prema	Severe Infection	7000	Government
+32	Mukesh D	56	Male	03-08-2026	09-08-2026	Emergency	Dr.prakash	Critical Injury	89000	Government
+33	Rooth A	28	Female	05-08-2026	08-08-2026	Dermatology	Dr.Rahul	Skin Infection	5000	Self-pay
+34	Salma S	32	Female	07-08-2026	12-08-2026	Pediatrics	Dr.Dravid	Asthma	3000	Self-pay
+35	Amala S	33	Female	09-08-2026	14-08-2026	Neurology	Dr.Kumar	Migraine	60000	Government
+36	Jothi H	29	Female	11-08-2026	13-08-2026	Dental	Dr.Velan	Wisdom Tooth	3000	Self-pay
+37	Sharvin R	37	Male	13-08-2026	17-08-2026	Physiotherapy	Dr.Ramesh	Sports Injury	50000	Government
+38	Varun S	28	Male	18-08-2026	25-08-2026	General Surgery	Dr.Kannan	Abdominal Pain	20000	Self-pay
+39	Vasu L	30	Male	19-08-2026	26-08-2026	Cardiology	Dr.Raj	Chest Pain	40000	Insured
+40	Hema B	34	Female	20-08-2026	09-08-2026	General	Dr.Raja	Fever	2000	Self-pay
+41	Raj J 	31	Male	01-09-2026	07-09-2026	ICU	Dr.Prema	Severe Infection	10000	Government
+42	Prakash R	33	Male	03-09-2026	09-08-2026	Emergency	Dr.prakash	Critical Injury	40000	Insured
+43	Kiruba M	34	Male	05-09-2026	08-09-2026	Neurology	Dr.Kumar	Migraine	3500	Insured
+44	Karan K	31	Male	07-09-2026	12-09-2026	Dental	Dr.Velan	Wisdom Tooth	3000	Self-pay
+45	Simram M	37	Female	09-09-2026	14-09-2026	Physiotherapy	Dr.Ramesh	Sports Injury	50000	Government
+46	Kasthuri B	38	Female	11-09-2026	13-09-2026	General Surgery	Dr.Kannan	Gallstones	25000	Insured
+47	Kamal R	40	Male	13-09-2026	17-09-2026	ICU	Dr.Prema	Severe Infection	50000	Self-pay
+48	Rajini L	65	Male	18-09-2026		Emergency	Dr.prakash	Critical Injury	60000	Government
+49	Ajith N	53	Male	19-09-2026	26-09-2026	Dermatology	Dr.Rahul	Skin Infection	4000	Self-pay
+50	Rajesh A	29	Male	20-09-2026	27-09-2026	Pediatrics	Dr.Dravid	Asthma	3000	Self-pay
